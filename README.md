@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=6BCB77&height=200&text=kormeian&fontAlign=70&rotate=13&fontAlignY=25&desc=Ian's%20GitHub%20Profile&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=6BCB77&height=150&text=kormeian&fontAlign=80&rotate=10&fontAlignY=25&desc=Ian's%20GitHub%20Profile&descAlign=80.&descAlignY=44)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -29,4 +29,4 @@ always looking for dreams and happiness. ✨
   
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=4D96FF&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=4D96FF&height=150&section=footer)
