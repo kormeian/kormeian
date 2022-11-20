@@ -29,4 +29,4 @@ always looking for dreams and happiness. ✨
   
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=4D96FF&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=4D96FF&height=200&section=footer)
